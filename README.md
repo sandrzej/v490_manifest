@@ -1,6 +1,7 @@
 # v490_manifest
 
 Local manifest file for building LineageOS 14.1 for LG V490 LTE
+
 Initialize the LineageOS source repository
 
 Enter the following to initialize the repository:
